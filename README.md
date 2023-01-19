@@ -21,4 +21,4 @@ college
 
 CRUDL for student, course, college
 use MySQL
-Search by fieldsss
+Search by fields
